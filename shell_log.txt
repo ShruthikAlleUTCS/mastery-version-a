@@ -1,0 +1,500 @@
+   42  ./runner -r traces/amptjp-bal.rep
+   43  make all
+   44  ./runner -r traces/amptjp-bal.rep
+   45  ./runner -r traces/random2.rep
+   46  make all
+   47  ./runner -r traces/random2.rep
+   48  make all
+   49  ./runner -r traces/random2.rep
+   50  make all
+   51  ./runner -r traces/random2.rep
+   52  ./runner -r traces/traces/expr-bal.rep
+   53  ./runner -r traces/expr-bal.rep
+   54  ./runner -r traces/amptjp-bal.rep
+   55  ./runner -r traces/random2.rep
+   56  ./runner -r traces/random2-bal.rep
+   57  cd ./traces
+   58  make all
+   59  make
+   60  make all
+   61  sudo make all
+   62  make
+   63  make all
+   64  make all
+   65  sudo make all
+   66  cd .
+   67  cd ..
+   68  ./runner -r traces/random-bal.rep
+   69  ./runner -r traces/random-bal.rep
+   70  make all
+   71  ./runner -r traces/random-bal.rep
+   72  valgrind --leak-check=full ./traces/random-bal.rep
+   73  chmod +w ./traces
+   74  valgrind --leak-check=full ./traces/random-bal.rep
+   75  chmod +x install.sh
+   76  driver.py
+   77  sudo valgrind --leak-check=full traces/random-bal.rep
+   78  sudo valgrind --leak-check=full ./traces/random-bal.rep
+   79  ./
+   80  ./tracres
+   81  ./traces
+   82  cd ./traces
+   83  make
+   84  make all
+   85  ./runner
+   86  ../runner
+   87  cd
+   88  make all
+   89  sudo valgrind --leak-check=full ./traces/random-bal.rep
+   90  make all
+   91  sudo valgrind --leak-check=full traces/random-bal.rep
+   92  ./runner -r traces/random-bal.rep
+   93  gdb ./runner
+   94  gdb debug
+   95  gdb ./runner
+   96  make all
+   97  gdb ./runner
+   98  make all
+   99  gdb ./runner
+  100  make all
+  101  gdb ./runner
+  102  make all
+  103  make ./runner
+  104  gdb ./runner
+  105  make all
+  106  gdb ./runner
+  107  make all
+  108  ./runner -r traces/random-bal.rep
+  109  make aell
+  110  makea ll
+  111  make all
+  112  ./runner -r traces/random-bal.rep
+  113  make all
+  114  ./runner -r traces/random-bal.rep
+  115  ./runner -r traces/random2.rep
+  116  ./runner -r traces/random.rep
+  117  make all
+  118  ./runner -r traces/random.rep
+  119  make all
+  120  ./runner -r traces/random.rep
+  121  make all
+  122  ./runner -r traces/random.rep
+  123  ./runner -r traces/random2.rep
+  124  ./runner -r traces/random2-bal.rep
+  125  ./runner -r traces/random.rep
+  126  ./runner -r traces/random.rep
+  127  clear mem
+  128  clear
+  129  ./runner -r traces/random.rep
+  130  gdb ./runner
+  131  make all
+  132  make all
+  133  ./runner -r traces/random.rep
+  134  makea ll
+  135  make all
+  136  ./runner -r traces/random.rep
+  137  make all
+  138  make all
+  139  make all
+  140  make all
+  141  ./runner -r traces/random.rep
+  142  make all
+  143  ./runner -r traces/random.rep
+  144  make all
+  145  ./runner -r traces/random.rep
+  146  make debug
+  147  gdb ./runner
+  148  make all
+  149  ./runner -r traces/random.rep
+  150  gdb ./runner
+  151  ./runner -r 
+  152  ./runner -r traces/random.rep
+  153  gdb ./runner
+  154  make all
+  155  ./runner -r traces/random.rep
+  156  gdb ./runner
+  157  make all
+  158  gdb ./runner
+  159  ./runner -r traces/random.rep
+  160  gdb ./runner
+  161  make all
+  162  ./runner -r traces/random.rep
+  163  make all
+  164  ./runner -r traces/random.rep
+  165  make all
+  166  ./runner -r traces/random.rep
+  167  makea ll
+  168  make all
+  169  make all
+  170  ./runner -r traces/random.rep
+  171  ./runner -r traces/random1.rep
+  172  ./runner -r traces/random2.rep
+  173  ./runner -r traces/exp.rep
+  174  ./runner -r traces/exp.rep
+  175  ./runner -r traces/expr.rep
+  176  ./runner -r traces/amptjp-bal.rep
+  177  ./runner -r traces/amptjp-bal.rep
+  178  ./runner -r traces/amptjp.rep
+  179  ./runner -r traces/binary-bal.rep
+  180  ./runner -r traces/binary.rep
+  181  ./runner -r traces/binary2.rep
+  182  ./runner -r traces/binary2.rep
+  183  ./runner -r traces/binary2.rep
+  184  driver.py
+  185  ./runner -r traces/cccp-bal.rep
+  186  ./runner -r traces/cccp.rep
+  187  ./runner -r traces/coalescing-bal.rep
+  188  ./runner -r traces/coalescing.rep
+  189  ./runner -r traces/cp-decl-bal.rep
+  190  ./runner -r traces/cp-decl-bal.rep
+  191  ./runner -r traces/cp-decl-bal.rep
+  192  ./runner -r traces/cp-decl.rep
+  193  ./runner -r traces/expr-bal.rep
+  194  ./runner -r traces/expr.rep
+  195  ./runner -r traces/random-bal.rep
+  196  traces/random.rep
+  197  ./runner -r traces/random.rep
+  198  ./runner -r traces/random2-bal.rep
+  199  ./runner -r traces/random2-bal.rep
+  200  driver.py
+  201  make all
+  202  make all
+  203  driver.py
+  204  driver.py
+  205  make all
+  206  git add .
+  207  git commit -m "push"
+  208  git add .
+  209  git push
+  210  make all
+  211  make all
+  212  make all
+  213  make all
+  214  make all
+  215  make all
+  216  driver.py
+  217  make all
+  218  make all
+  219  make all
+  220  driver.py
+  221  make all
+  222  driver.pyu
+  223  driver.py
+  224  make all
+  225  driver.py
+  226  git add .
+  227  git commit -m "finish"
+  228  git push
+  229  make all
+  230  git add .
+  231  git commit -m "finish"
+  232  git push
+  233  make all
+  234  driver.py
+  235  make all
+  236  git add.
+  237  git add .
+  238  git commit -m "push
+  239  "
+  240  git push
+  241  driver.py
+  242  make all
+  243  make all
+  244  make all
+  245  driver.py
+  246  make all
+  247  make all
+  248  make all
+  249  make all
+  250  make all
+  251  make all
+  252  ./runner -r ./traces/binary.rep
+  253  driver.py
+  254  ./runner -r ./traces/binary2.rep
+  255  ./runner -r ./traces/cccp.rep
+  256  driver.py
+  257  ./runner -r ./traces/cccp-bal.rep
+  258  driver.py
+  259  make all
+  260  make all
+  261  make all
+  262  ./runner -r ./traces/cccp-bal.rep
+  263  ./runner -r ./traces/cccp.rep
+  264  gdb ./runner
+  265  gdb ./runner
+  266  gdb ./runner
+  267  gdb ./runner
+  268  make all
+  269  make all
+  270  response.c
+  271  make all
+  272  make all
+  273  make all
+  274  make all
+  275  driver.pt
+  276  driver.py
+  277  ./runner binary.rep
+  278  ./runner traces/binary.rep
+  279  ./runner -r traces/binary.rep
+  280  ./runner -r traces/binary2.rep
+  281  make all
+  282  driver.py
+  283  make all
+  284  driver.py
+  285  make all
+  286  driver.py
+  287  make all
+  288  driver.py
+  289  make all
+  290  git add .
+  291  git push
+  292  git commit -m "push"
+  293  git push
+  294  driver.py
+  295  make all
+  296  driver.py
+  297  make all
+  298  driver.pt
+  299  driver.py
+  300  make all
+  301  driver.py
+  302  make all
+  303  driver.py
+  304  make all
+  305  driver.py
+  306  mmake 
+  307  make all
+  308  make all
+  309  make all
+  310  make all
+  311  make all
+  312  make all
+  313  driver.py
+  314  make all
+  315  driver.py
+  316  make all
+  317  driver.py
+  318  make all
+  319  make all
+  320  driver.py
+  321  /lusr/bin/python3.13 /u/shruthik/Documents/ac-lab-ShruthikAlleUTCS/verify.py
+  322  make
+  323  ./ac.lab
+  324  make 
+  325  make all
+  326  make
+  327  make
+  328  /lusr/bin/python3.13 /u/shruthik/Documents/ac-lab-ShruthikAlleUTCS/verify.py
+  329  /lusr/bin/python3.13 /u/shruthik/Documents/ac-lab-ShruthikAlleUTCS/verify.py
+  330  /lusr/bin/python3.13 /u/shruthik/Documents/ac-lab-ShruthikAlleUTCS/verify.py
+  331  /lusr/bin/python3.13 /u/shruthik/Documents/ac-lab-ShruthikAlleUTCS/verify.py
+  332  /lusr/bin/python3.13 /u/shruthik/Documents/ac-lab-ShruthikAlleUTCS/verify.py
+  333  make
+  334  make
+  335  make a
+  336  make
+  337  make
+  338  make
+  339  make all
+  340  make
+  341  make
+  342  make
+  343  /lusr/bin/python3.13 /u/shruthik/Documents/ac-lab-ShruthikAlleUTCS/verify.py
+  344  make
+  345  make
+  346  make all
+  347  make
+  348  make -h
+  349  make ./ac
+  350  make
+  351  make
+  352  make 
+  353  make
+  354  make
+  355  make
+  356  make all
+  357  make
+  358  make
+  359  make
+  360  make
+  361  make
+  362  make
+  363  make
+  364  make all
+  365  make functions.s
+  366  make
+  367  make
+  368  make -h
+  369  ~/.gdbinit
+  370  touch ~/.gdbinit
+  371  ls
+  372  cd
+  373  ls
+  374  ls Documents
+  375  open gdb
+  376  git clone https://github.com/CS429-SP2025/shared-repo-version-h-ShruthikAlleUTCS.git
+  377  make
+  378  make all
+  379  make
+  380  gdb ./ref.out
+  381  bin/a.out -t /u/shruthik/Documents/shared-repo-version-h-ShruthikAlleUTCS/testcases/short1.rep
+  382  bin/a.out -t 
+  383  bin/a.out -t /u/shruthik/Documents/shared-repo-version-h-ShruthikAlleUTCS/testcases/short2.rep
+  384  history
+  385  touch shell_logs.txt
+  386  make 
+  387  gdb bin/a.out
+  388  gdb bin/a.out -t short2.rep
+  389  grind.c -t short2.rep
+  390  make grind.c
+  391  grind.c
+  392  touch gdb_logs.txt
+  393  bin/a.out -t short1.rep
+  394  gdb ./grind.c
+  395  gdb bin/a.out
+  396  gdb testcases/short1.rep
+  397  gdb testcases/short1.rep
+  398  gdb testcases/short1.rep
+  399  gdb bin/a.out
+  400  gdb bin/grind.o
+  401  gdb bin/a.out
+  402  make debug
+  403  gdb parser.c
+  404  history
+  405  gdb parser.c
+  406  git add .
+  407  git commit -m "commited"
+  408  git push
+  409  history
+  410  git add .
+  411  git commit -m "push"
+  412  git push
+  413  git -r
+  414  git -r .
+  415  git remove
+  416  git -r
+  417  cd ..
+  418  ls
+  419  rm -rf shared-repo-version-h-ShruthikAlleUTCS/
+  420  ls -l
+  421  git clone https://github.com/CS429-SP2025/se-lab-vedant-srishruthik.git
+  422  git clone https://github.com/CS429-SP2025/se-lab-vedant-srishruthik.git
+  423  git clone https://github.com/CS429-SP2025/se-lab-vedant-srishruthik.git
+  424  git clone https://github.com/CS429-SP2025/se-lab-vedant-srishruthik.git
+  425  git clone https://github.com/CS429-SP2025/se-lab-vedant-srishruthik.git
+  426  make
+  427  make clean
+  428  make
+  429  make
+  430  make testbench/MakeFile
+  431  test-hw
+  432  make -h
+  433  make
+  434  cd src/testbench
+  435  make
+  436  make
+  437  cd ..
+  438  cd .
+  439  cd ..
+  440  bin/test-se -w1
+  441  bin/test-se -w1
+  442  bin/test-se -w0
+  443  bin/test-hw
+  444  bin/test-hw -h
+  445  bin/test-hw 
+  446  make
+  447  make
+  448  make
+  449  make
+  450  make
+  451  make
+  452  make
+  453  make
+  454  bin/test-hw 
+  455  git pull
+  456  git pull
+  457  git commit -m "m"
+  458  git add .
+  459  git pull
+  460  git commit -m "do not"
+  461  git pull
+  462  git pull
+  463  git pull
+  464  git pull
+  465  git config pull.rebase false
+  466  git pull
+  467  git pull
+  468  make
+  469  ./ac_lab
+  470  git pull orgin master
+  471  git add
+  472  git add .
+  473  git pull origin master
+  474  git commit -m "do it"
+  475  git pull origin master
+  476  make
+  477  make clean
+  478  bin/test-hw
+  479  bin/test-hw -h
+  480  bin/test-hw -e
+  481  testcases
+  482  testcases/basics
+  483  make
+  484  make week2
+  485  bin/se
+  486  bin/se testcases/basics
+  487  bin/se testcases/basics
+  488  bin/se -i testcases/basics
+  489  bin/se -i testcases/basics/add
+  490  bin/se -i testcases/basics/add
+  491  bin/se -i testcases/basics/add
+  492  make
+  493  make
+  494  cd
+  495  ls
+  496  cd Documents
+  497  git clone https://github.com/ShruthikAlleUTCS/mastery-version-a.git
+  498  open
+  499  touch ~/.gdbinit 
+  500  ls -a
+  501  echo “set history save on” > ~/.gdbinit  
+  502  cat ~/.gdbinit
+  503  echo "set history save on" > ~/.gdbinit
+  504  cat ~/.gdbinit
+  505  make
+  506  mini_ci 
+  507  mini_ci ./testcases/basic_add.s
+  508  mini_ci_reference ./testcases/basic_add.s
+  509  mini_ci ./testcases/basic_div.s
+  510  mini_ci_reference ./testcases/basic_div.s
+  511  mini_ci ./testcases/basic_mul.s
+  512  mini_ci_reference ./testcases/basic_mul.s
+  513  mini_ci ./testcases/basic_sub.s
+  514  mini_ci_reference ./testcases/basic_sub.s
+  515  mini_ci ./testcases/err_ops.s
+  516  mini_ci_reference ./testcases/err_ops.s
+  517  gdb mini_ci
+  518  make debug
+  519  make debug
+  520  gdb mini_ci
+  521  make clean
+  522  make debug
+  523  gdb mini_ci
+  524  make
+  525  gdb mini_ci
+  526  make clean
+  527  make debug
+  528  gdb mini_ci
+  529  make clean
+  530  make debug
+  531  make debug
+  532  make clean
+  533  make debug
+  534  gdb main.c
+  535  q
+  536  gdb mini_ci
+  537  make check
+  538  git add .
+  539  git commit -m "text"
+  540  git push
+  541  history > shell_log.txt 
